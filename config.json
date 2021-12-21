@@ -1,0 +1,8 @@
+{
+    "creator" : "Lakshya Jain",
+    "platform" : "express",
+    "platoon" : "IP",
+    "regionserver" : "5",
+    "useIPConfig" : true,
+    "isProduction" : false
+}
